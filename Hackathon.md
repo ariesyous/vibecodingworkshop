@@ -15,7 +15,7 @@ Choose a track below based on your experience level and get building!
 **Goal:** Practice "Prompt Engineering as Code." Use Gemini CLI to generate a complete HTML/CSS/JS or simple Python script. Your challenge is learning how to iterate and refine your instructions to the AI.
 
 ### Option 1: The "Zero-G" Fact Generator
-*   **API:** [Fun Fact API](https://api.aakhilv.me) or [RandomDuck](https://random-d.uk/api)
+*   **API:** [RandomDuck](https://random-d.uk/api)
 *   **The Project:** A single-page web app.
 *   **Antigravity Twist:** Prompt Gemini to: *"Build a web page that fetches a random duck picture and a random fun fact. Make the CSS 'space-themed' and make the images slowly float around the screen like they are in zero gravity."*
 
