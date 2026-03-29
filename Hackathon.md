@@ -47,12 +47,4 @@ Choose a track below based on your experience level and get building!
 
 ---
 
-## Kickoff: The Ultimate "Antigravity" Trick
-
-To start the event, open your terminal and run:
-
-```bash
-python -c "import antigravity"
-```
-
 Have fun, and let the AI do the heavy lifting!
