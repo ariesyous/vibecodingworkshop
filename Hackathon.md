@@ -19,16 +19,6 @@ Choose a track below based on your experience level and get building!
 *   **The Project:** A single-page web app.
 *   **Antigravity Twist:** Prompt Gemini to: *"Build a web page that fetches a random duck picture and a random fun fact. Make the CSS 'space-themed' and make the images slowly float around the screen like they are in zero gravity."*
 
-### Option 2: The Nostalgia Physics Engine
-*   **API:** [AmiiboAPI](https://amiiboapi.com/) (Nintendo character data)
-*   **The Project:** A character search web page.
-*   **Antigravity Twist:** Have Gemini scaffold a search bar to find Amiibos. The challenge: Prompt Gemini to include a lightweight JavaScript physics library (like Matter.js) so that when the Amiibo images load, they drop onto the screen and bounce around with low gravity.
-
-### Option 3: The "Corporate Gravity" Defier
-*   **API:** [Corporate Buzz Words API](https://github.com/sameerkumar18/corporate-bs-generator-api)
-*   **The Project:** A very simple Python CLI script.
-*   **Antigravity Twist:** The script pulls a heavy, jargon-filled corporate phrase (e.g., "synergize scalable deliverables"). Use Gemini to build a tool that translates that heavy corporate speak into "Space Captain" dialogue or plain, simple English.
-
 ---
 
 ## Track 2: The "Systems Architect" (Experienced Programmers)
