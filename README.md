@@ -30,6 +30,7 @@ Navigate the workshop materials using the links below:
 For those in the **Advanced Track** or anyone looking for extra inspiration, check out this massive collection of free APIs:
 
 🔗 **[Public APIs Repository](https://github.com/public-apis/public-apis)**
+🔗 **[agency-agents Prompt Repository](https://github.com/msitarzewski/agency-agents)**
 
 Use these to find unique data sources for your projects, from space launches to art history.
 
